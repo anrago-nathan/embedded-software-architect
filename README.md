@@ -116,16 +116,16 @@ python3 <expert-manager>/scripts/register_expert.py \
 
 ## 版本
 
-当前版本：**0.2.0**
+当前版本：**0.2.1**
 
-专家 ZIP 与 SHA-256 校验文件见 [v0.2.0 发布页](https://github.com/anrago-nathan/embedded-software-architect/releases/tag/v0.2.0)。更新与验证范围见 [发布记录](docs/releases/0.2.0.md)。
+专家 ZIP 与 SHA-256 校验文件见 [v0.2.0 发布页](https://github.com/anrago-nathan/embedded-software-architect/releases/tag/v0.2.1)。更新与验证范围见 [发布记录](docs/releases/0.2.1.md)。
 
 ## 许可
 
-专家包及从原仓库导入的内容采用 [Apache License 2.0](LICENSE-APACHE-2.0)，包内另附 LICENSE。目标仓库初始化时已有的 [MIT License](LICENSE) 原样保留；本次上传未将专家包改为 MIT。
+专家包及从原仓库导入的内容采用 [Apache License 2.0](LICENSE-APACHE-2.0)，包内另附 LICENSE。目标仓库初始化时已有的 [MIT License](LICENSE) 原样保留；本次同步未将专家包改为 MIT。
 
 其中引用的 Linux 内核、Buildroot/Yocto、Qt、FFmpeg、Rockchip MPP 等第三方组件遵循各自原有许可证。
 
 ## 来源
 
-本版基于 [workbuddy-expert](https://github.com/anrago-embedded-skills/workbuddy-expert) 的 `7e47515b04a60473b2fc203dc037cb1a54a92136` 导入，补充当前作者与目标仓库信息。原技能内容、版本和专家标识保持不变。
+本仓库由 [workbuddy-expert](https://github.com/anrago-embedded-skills/workbuddy-expert) 的 0.2.0 导入，并同步 [0.2.1 修补版](https://github.com/anrago-embedded-skills/workbuddy-expert/tree/v0.2.1)。作者为 anrago-nathan；既有历史、许可证和 0.2.0 发布记录保留。
